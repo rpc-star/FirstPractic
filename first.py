@@ -1,2 +1,3 @@
 print("Hello friend")
-print("new shit")
+print("veselo jivem")
+print("Hello pupa")
