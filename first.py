@@ -1,4 +1,4 @@
 print("Hello friend")
-print("new shit")
+print("new life")
 print("hellosdsd")
 print("hellodsfsdfdsf")
